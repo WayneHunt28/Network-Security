@@ -1,0 +1,14 @@
+Hello,Wayne Congratulations on an outstanding homework assignment! 
+You've demonstrated investigative skills within the scope of your networking tasks! On the same note, great job reviewing all of the security and intrusion questions. 
+You've listed and defined examples for cyber kill chain steps. You’ve analyzed 2 Snort rules, and even created your own rule, based on the criteria given! 
+You've done a great job with this deliverable! You've done an excellent job with your Drop Zone lab! You were able to: Remove any running instance of ufw Enable and start firewalld upon boots and reboots. 
+Confirm firewalld service is running. List all firewall rules currently configured. List all supported service types that can be enabled. List all configured zones. 
+Create Web, Sales and Mail zones. Set the eth interfaces to your zones. Add services to the public zone, the Web zone, the sales zone, and the mail zone. Add all current and any future blacklisted IPs to the Drop Zone. 
+Reload the firewall configurations and write it to memory. Display all zone services. Add a rich-rule that blocks the IP address 138.138.0.3. Block pings and ICMP requests in your public zone List all of the rule settings. 
+Good work; the summary depicts the above! 
+Also, well done with part 3. You've correctly answered all four questions about IDS vs IPS systems. 
+In the same regard, you've correctly answered all five questions about defense and firewall architecture methodologies! 
+Now, you’ve done awesome work with the bonus! You've included, in your threat intelligence card, indicators of the attack, the underlying purpose of your observations as well as your mitigation strategies. 
+Wow! You've done a wonderful job with these two deliverables! It is an excellent time to begin building your professional portfolio, Include this document for a healthy start, and it will help to build your personal brand! 
+This has been an amazing assignment to help you understand how to perform network vulnerability assessments, keep up the good work and this smooth flow you've established!
+- Central Grader
